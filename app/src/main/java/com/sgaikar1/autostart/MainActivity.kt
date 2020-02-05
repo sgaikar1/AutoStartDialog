@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun showDialog() {
         AutostartDialog.Builder(this)
-            .openSettingsWithoutShowingDialog(true)
+            .openSettingsWithoutShowingDialog(false)
             .setTitle("Allow AutoStart")
             .setMessage("Please enable auto start in settings.")
             .setPositiveBtnText("Allow")
