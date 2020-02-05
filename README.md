@@ -72,7 +72,7 @@ See [Contributing Guidelines](Contributing.md).
 
 ## Credits
 
- * StackOverFlow Community, This project is made by implementing suggestions answers provided by android dev community on stackoverflow,
+ * To StackOverFlow Community: This project is made by implementing suggestions/answers posted by android dev community on stackoverflow,
   If you find your code is used in this library feel free to ping me on mail, i will give proper credits in the repository.
  
  
@@ -81,7 +81,7 @@ See [Contributing Guidelines](Contributing.md).
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ```
-Copyright 2016 Santosh Gaikar....
+Copyright 2020 Santosh Gaikar....
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
